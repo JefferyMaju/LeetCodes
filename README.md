@@ -14,7 +14,7 @@
 
 ### Core Philosophy
 My approach for each problem focuses on:
-- **:mag: Readability:** Writing clean, self-commenting code.
+- **:mag: Readability:** Writing clean, self written code.
 - **:zap: Efficiency:** Analyzing and optimizing for time and space complexity.
 - **:books: Data Structures:** Choosing the right tool for the job.
 
@@ -40,4 +40,3 @@ This table provides an overview of the problems I have solved, with direct links
 ## Future Goals
 - [ ] Complete 50 Easy LeetCode Problems
 - [ ] Begin tackling Medium-level challenges
-- [ ] Explore solutions in other languages like Go
