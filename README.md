@@ -33,7 +33,7 @@ This table provides an overview of the problems I have solved, with direct links
 |---|---|:---:|:---:|:---:|:---:|
 | 1 | Two Sum | `Python` | $O(n^2)$ | $O(1)$ | [View Code](TwoSum.py) |
 | 9 | Palindrome Number | `Python` | $O(n)$ | $O(1)$ | [View Code](Palindrome.py) |
-| 13 | Roman to Integer | `Python` | $O(n)$ | $O(1)$ | [View Code](./013-Roman-to-Integer/solution.py) |
+| 13 | Roman to Integer | `Python` | $O(n)$ | $O(1)$ | [View Code](RomanToInteger.py) |
 
 <br>
 
