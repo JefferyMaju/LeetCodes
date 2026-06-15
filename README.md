@@ -29,12 +29,13 @@ My approach for each problem focuses on:
 
 This table provides an overview of the problems I have solved, with direct links to the code and my notes on the approach.
 
-| Problem | Title | Language | Time Complexity | Space Complexity | Solution & Notes |
-|---|---|:---:|:---:|:---:|:---:|
-| 1 | Two Sum | `Python` | $O(n^2)$ | $O(1)$ | [View Code](TwoSum.py) |
-| 9 | Palindrome Number | `Python` | $O(n)$ | $O(1)$ | [View Code](Palindrome.py) |
-| 13 | Roman to Integer | `Python` | $O(n)$ | $O(1)$ | [View Code](RomanToInteger.py) |
-| 14 | Longest Common Prefix | `Python` | $O(s)$ | $O(1)$ | [View Code](LongestCommonPrefix.py) |
+| Problem | Title | Language | Time Complexity | Space Complexity | Solution & Notes | Difficulty
+|---|---|:---:|:---:|:---:|:---:|:---:|
+| 1 | Two Sum | `Python` | $O(n^2)$ | $O(1)$ | [View Code](TwoSum.py) | Easy |
+| 9 | Palindrome Number | `Python` | $O(n)$ | $O(1)$ | [View Code](Palindrome.py) | Easy |
+| 13 | Roman to Integer | `Python` | $O(n)$ | $O(1)$ | [View Code](RomanToInteger.py) | Easy |
+| 14 | Longest Common Prefix | `Python` | $O(s)$ | $O(1)$ | [View Code](LongestCommonPrefix.py) | Easy |
+| 7 | Reverse Integer | `Python` | $O(n)$ | $O(n)$ | [View Code](ReverseInteger.py) | Medium |
 
 <br>
 
