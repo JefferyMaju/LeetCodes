@@ -39,6 +39,7 @@ This table provides an overview of the problems I have solved, with direct links
 | 70 | Climbing Stairs | `Python` | $O(n)$ | $O(n)$ | [View Code](ClimbingStairs.py) | Easy |
 | 258 | Add Digits | `Python` | $O(n)$ | $O(n)$ | [View Code](AddDigits.py) | Easy |
 | 509 | Fibonacci Number | `Python` | $O(n)$ | $O(n)$ | [View Code](FibonacciNumber.py) | Easy |
+| 3612 | Process String with Special Operations I | `Python` | $O(n^2)$ | $O(n^2)$ | [View Code](ProcessStringwithSpecialOperationsI.py) | Medium |
 
 <br>
 
