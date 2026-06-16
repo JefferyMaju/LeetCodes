@@ -36,6 +36,7 @@ This table provides an overview of the problems I have solved, with direct links
 | 9 | Palindrome Number | `Python` | $O(n)$ | $O(1)$ | [View Code](Palindrome.py) | Easy |
 | 13 | Roman to Integer | `Python` | $O(n)$ | $O(1)$ | [View Code](RomanToInteger.py) | Easy |
 | 14 | Longest Common Prefix | `Python` | $O(s)$ | $O(1)$ | [View Code](LongestCommonPrefix.py) | Easy |
+| 509 | Fibonacci Number | `Python` | $O(n)$ | $O(n)$ | [View Code](FibonacciNumber.py) | Easy |
 
 <br>
 
