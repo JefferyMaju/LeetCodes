@@ -38,6 +38,7 @@ This table provides an overview of the problems I have solved, with direct links
 | 14 | Longest Common Prefix | `Python` | $O(s)$ | $O(1)$ | [View Code](LongestCommonPrefix.py) | Easy |
 | 70 | Climbing Stairs | `Python` | $O(n)$ | $O(n)$ | [View Code](ClimbingStairs.py) | Easy |
 | 258 | Add Digits | `Python` | $O(n)$ | $O(n)$ | [View Code](AddDigits.py) | Easy |
+| 412 | Fizz Buzz | `Python` | $O(n log(n))$ | $O(n)$ | [View Code](FizzBuzz.py) | Easy |
 | 509 | Fibonacci Number | `Python` | $O(n)$ | $O(n)$ | [View Code](FibonacciNumber.py) | Easy |
 | 3612 | Process String with Special Operations I | `Python` | $O(n^2)$ | $O(n^2)$ | [View Code](ProcessStringwithSpecialOperationsI.py) | Medium |
 
