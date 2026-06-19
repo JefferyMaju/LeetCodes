@@ -44,7 +44,8 @@ This table provides an overview of the problems I have solved, with direct links
 | 507 | Perfect Number | `Python` | $O(num^0.5)$ | $O(1)$ | [View Code](PerfectNumber.py) | Easy |
 | 509 | Fibonacci Number | `Python` | $O(n)$ | $O(n)$ | [View Code](FibonacciNumber.py) | Easy |
 | 728 | Self Dividing Numbers | `Python` | $O(n log(right)$ | $O(k)$ | [View Code](SelfDividingNumber.py) | Easy |
-| 2079 | Watering Plants | `Python` | $O(n)$ | $O(1)$ | [View Code](WateringPlants.py) | Medium |
+| 2079 | Watering Plants I| `Python` | $O(n)$ | $O(1)$ | [View Code](WateringPlants.py) | Medium |
+| 2105 | Watering Plants II | `Python` | $O(n)$ | $O(1)$ | [View Code](WateringPlantsII.py) | Medium |
 | 2525 | Categorize Box According to Criteria | `Python` | $O(1)$ | $O(1)$ | [View Code](ategorizeBoxAccordingtoCriteria.py) | Easy |
 | 3612 | Process String with Special Operations I | `Python` | $O(n^2)$ | $O(n^2)$ | [View Code](ProcessStringwithSpecialOperationsI.py) | Medium |
 
