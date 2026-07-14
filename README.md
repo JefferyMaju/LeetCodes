@@ -39,6 +39,7 @@ This table provides an overview of the problems I have solved, with direct links
 | 27 | Remove Element | `Python` | $O(n^2)$ | $O(1)$ | [View Code](RemoveElement.py) | Easy |
 | 66 | Plus One | `Python` | $O(n)$ | $O(n)$ | [View Code](PlusOne.py) | Easy |
 | 70 | Climbing Stairs | `Python` | $O(n)$ | $O(n)$ | [View Code](ClimbingStairs.py) | Easy |
+| 125 | Valid Palindrome | `Python` | $O(n^2)$ | $O(n)$ | [View Code](ValidPalindrome.py) | Easy |
 | 258 | Add Digits | `Python` | $O(n)$ | $O(n)$ | [View Code](AddDigits.py) | Easy |
 | 344 | Reverse String | `Python` | $O(n)$ | $O(1)$ | [View Code](ReverseString.py) | Easy |
 | 412 | Fizz Buzz | `Python` | $O(n log(n))$ | $O(n)$ | [View Code](FizzBuzz.py) | Easy |
