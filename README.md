@@ -45,6 +45,7 @@ This table provides an overview of the problems I have solved, with direct links
 | 412 | Fizz Buzz | `Python` | $O(n log(n))$ | $O(n)$ | [View Code](FizzBuzz.py) | Easy |
 | 507 | Perfect Number | `Python` | $O(num^(0.5))$ | $O(1)$ | [View Code](PerfectNumber.py) | Easy |
 | 509 | Fibonacci Number | `Python` | $O(n)$ | $O(n)$ | [View Code](FibonacciNumber.py) | Easy |
+| 704 | Binary Search | `Python` | $O(log(n))$ | $O(1)$ | [View Code](BinarySearch.py) | Easy |
 | 728 | Self Dividing Numbers | `Python` | $O(n log(right)$ | $O(k)$ | [View Code](SelfDividingNumber.py) | Easy |
 | 1331 | Rank Transform of an Array | `Python` | $O(n log(n)$ | $O(n)$ | [View Code](RankTransformOfAnArray.py) | Easy |
 | 2079 | Watering Plants I| `Python` | $O(n)$ | $O(1)$ | [View Code](WateringPlants.py) | Medium |
