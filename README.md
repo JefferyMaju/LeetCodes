@@ -12,13 +12,21 @@
 
 ---
 
+### 👨‍💻 About
+
+I'm a Computer Science Engineering student passionate about problem solving, algorithms, and software development.
+
+This repository documents my LeetCode journey while preparing for coding interviews and improving my DSA skills.
+
+---
+
 ### Core Philosophy
 My approach for each problem focuses on:
 - **:mag: Readability:** Writing clean, self written code.
 - **:zap: Efficiency:** Analyzing and optimizing for time and space complexity.
 - **:books: Data Structures:** Choosing the right tool for the job.
 
-### Technology Stack
+## 🛠 Language
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </p>
@@ -34,9 +42,9 @@ My approach for each problem focuses on:
 
 ---
 
-## Solution Catalogue: Easy Tier
+## Solution Catalogue
 
-This table provides an overview of the problems I have solved, with direct links to the code and my notes on the approach.
+This table provides an overview of the problems I have solved, with direct links to the code and also the difficulty levels.
 
 | Problem | Title | Language | Time Complexity | Space Complexity | Solution & Notes | Difficulty
 |---|---|:---:|:---:|:---:|:---:|:---:|
@@ -68,5 +76,13 @@ This table provides an overview of the problems I have solved, with direct links
 <br>
 
 ## Future Goals
-- [ ] Complete 50 Easy LeetCode Problems
-- [ ] Begin tackling Medium-level challenges
+- [ ] Complete 50 Easy LeetCode problems
+- [ ] Solve 50 Medium problems
+- [ ] Start solving Hard problems
+- [ ] Learn Graph Algorithms
+- [ ] Master Dynamic Programming
+- [ ] Reach 200 solved problems
+
+---
+
+⭐ If you found this repository helpful, consider giving it a star!
