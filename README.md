@@ -10,6 +10,10 @@
   <a href="https://www.linkedin.com/in/jeffery-maju-710975337"><strong>Connect on LinkedIn »</strong></a>
 </p>
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![Problems Solved](https://img.shields.io/badge/Solved-24-success?style=for-the-badge)
+
 ---
 
 ### 👨‍💻 About
