@@ -36,8 +36,8 @@ My approach for each problem focuses on:
 
 ## 📈 Progress
 
-- ✅ Total Solved: 24
-- 🟢 Easy: 17
+- ✅ Total Solved: 25
+- 🟢 Easy: 18
 - 🟡 Medium: 7
 - 🔴 Hard: 0
 
@@ -58,6 +58,7 @@ This table provides an overview of the problems I have solved, with direct links
 | 66 | Plus One | `Python` | $O(n)$ | $O(n)$ | [View Code](PlusOne.py) | Easy |
 | 70 | Climbing Stairs | `Python` | $O(n)$ | $O(n)$ | [View Code](ClimbingStairs.py) | Easy |
 | 74 | Search a 2D Matrix | `Python` | $O(log(m*n))$ | $O(1)$ | [View Code](Searcha2DMatrix.py) | Medium |
+| 121 | Best Time to Buy and Sell Stock | `Python` | $O(n)$ | $O(1)$ | [View Code](BestTimetoBuyandSellStock.py) | Easy |
 | 125 | Valid Palindrome | `Python` | $O(n^2)$ | $O(n)$ | [View Code](ValidPalindrome.py) | Easy |
 | 153 | Find Minimum in Rotated Sorted Array | `Python` | $O(log(n))$ | $O(1)$ | [View Code](FindMinimuminRotatedSortedArray.py) | Medium |
 | 258 | Add Digits | `Python` | $O(n)$ | $O(n)$ | [View Code](AddDigits.py) | Easy |
