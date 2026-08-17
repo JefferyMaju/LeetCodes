@@ -36,9 +36,9 @@ My approach for each problem focuses on:
 
 ## 📈 Progress
 
-- ✅ Total Solved: 25
+- ✅ Total Solved: 26
 - 🟢 Easy: 18
-- 🟡 Medium: 7
+- 🟡 Medium: 8
 - 🔴 Hard: 0
 
 ---
@@ -50,6 +50,7 @@ This table provides an overview of the problems I have solved, with direct links
 | Problem | Title | Language | Time Complexity | Space Complexity | Solution & Notes | Difficulty
 |---|---|:---:|:---:|:---:|:---:|:---:|
 | 1 | Two Sum | `Python` | $O(n^2)$ | $O(1)$ | [View Code](TwoSum.py) | Easy |
+| 3 | Longest Substring Without Repeating Characters | `Python` | $O(n)$ | $O(min(n,[E]))$ | [View Code](LongestSubstringWithoutRepeatingCharacters.py) | Medium |
 | 7 | Reverse Integer | `Python` | $O(n)$ | $O(n)$ | [View Code](ReverseInteger.py) | Medium |
 | 9 | Palindrome Number | `Python` | $O(n)$ | $O(1)$ | [View Code](Palindrome.py) | Easy |
 | 13 | Roman to Integer | `Python` | $O(n)$ | $O(1)$ | [View Code](RomanToInteger.py) | Easy |
