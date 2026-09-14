@@ -36,8 +36,8 @@ My approach for each problem focuses on:
 
 ## 📈 Progress
 
-- ✅ Total Solved: 27
-- 🟢 Easy: 19
+- ✅ Total Solved: 28
+- 🟢 Easy: 20
 - 🟡 Medium: 8
 - 🔴 Hard: 0
 
@@ -70,6 +70,7 @@ This table provides an overview of the problems I have solved, with direct links
 | 509 | Fibonacci Number | `Python` | $O(n)$ | $O(n)$ | [View Code](FibonacciNumber.py) | Easy |
 | 704 | Binary Search | `Python` | $O(log(n))$ | $O(1)$ | [View Code](BinarySearch.py) | Easy |
 | 728 | Self Dividing Numbers | `Python` | $O(n log(right)$ | $O(k)$ | [View Code](SelfDividingNumber.py) | Easy |
+| 836 | Rectangle Overlap | `Python` | $O(1)$ | $O(1)$ | [View Code](RectangleOverlap.py) | Easy |
 | 875 | Koko Eating Bananas | `Python` | $O(n log(n) + n log(m)$ | $O(k)$ | [View Code](KokoEatingBananas.py) | Medium |
 | 1331 | Rank Transform of an Array | `Python` | $O(n log(n)$ | $O(n)$ | [View Code](RankTransformOfAnArray.py) | Easy |
 | 2079 | Watering Plants I| `Python` | $O(n)$ | $O(1)$ | [View Code](WateringPlants.py) | Medium |
